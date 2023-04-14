@@ -10,9 +10,14 @@ function CardList() {
   return (
     <div className={styles.root}>
       {cardResponse.data.map((card) => (
-        <figure key={card.id}>
-          <img src={card.image_uris.normal} height="300" />
-          <figcaption>{card.name}</figcaption>
+        <figure
+          key={card.id}
+          style={{ // using inlines so I can copy
+            display: 'inline-block',
+            padding: '2px',
+            textAlign: 'center',
+          }}>
+          <img src={card.image_uris.normal} height="300" width="215" />
         </figure>
       ))}
     </div>

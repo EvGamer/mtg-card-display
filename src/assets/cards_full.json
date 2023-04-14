@@ -61,6 +61,24 @@
   },
   {
     "name": "Island",
+    "set": "DDM",
+    "number": "38",
+    "specialType": ""
+  },
+  {
+    "name": "Island",
+    "set": "DDI",
+    "number": "42",
+    "specialType": ""
+  },
+  {
+    "name": "Mountain",
+    "set": "DDI",
+    "number": "77",
+    "specialType": ""
+  },
+  {
+    "name": "Island",
     "set": "MBS",
     "number": "149",
     "specialType": ""
@@ -87,6 +105,30 @@
     "name": "Island",
     "set": "TD2",
     "number": "47",
+    "specialType": ""
+  },
+  {
+    "name": "Island",
+    "set": "DDF",
+    "number": "77",
+    "specialType": ""
+  },
+  {
+    "name": "Island",
+    "set": "DDF",
+    "number": "79",
+    "specialType": ""
+  },
+  {
+    "name": "Island",
+    "set": "HOP",
+    "number": "147",
+    "specialType": ""
+  },
+  {
+    "name": "Island",
+    "set": "HOP",
+    "number": "150",
     "specialType": ""
   },
   {
@@ -163,8 +205,26 @@
   },
   {
     "name": "Swamp",
+    "set": "GVL",
+    "number": "61",
+    "specialType": ""
+  },
+  {
+    "name": "Swamp",
+    "set": "GVL",
+    "number": "63",
+    "specialType": ""
+  },
+  {
+    "name": "Swamp",
     "set": "RTR",
     "number": "264",
+    "specialType": ""
+  },
+  {
+    "name": "Swamp",
+    "set": "DDD",
+    "number": "61",
     "specialType": ""
   },
   {
@@ -205,8 +265,20 @@
   },
   {
     "name": "Mountain",
+    "set": "JVC",
+    "number": "62",
+    "specialType": ""
+  },
+  {
+    "name": "Mountain",
     "set": "NEO",
     "number": "289",
+    "specialType": ""
+  },
+  {
+    "name": "Mountain",
+    "set": "DDP",
+    "number": "74",
     "specialType": ""
   },
   {
@@ -219,6 +291,18 @@
     "name": "Mountain",
     "set": "ROE",
     "number": "242",
+    "specialType": ""
+  },
+  {
+    "name": "Mountain",
+    "set": "HOP",
+    "number": "160",
+    "specialType": ""
+  },
+  {
+    "name": "Mountain",
+    "set": "DD2",
+    "number": "62",
     "specialType": ""
   },
   {
